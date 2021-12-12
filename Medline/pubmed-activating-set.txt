@@ -1,0 +1,522 @@
+PMID- 17298986
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071207
+LR  - 20181113
+IS  - 1472-4146 (Electronic)
+IS  - 0021-9746 (Print)
+IS  - 0021-9746 (Linking)
+VI  - 60
+IP  - 11
+DP  - 2007 Nov
+TI  - Detection of BRAF V600E activating mutation in papillary thyroid carcinoma using PCR 
+      with allele-specific fluorescent probe melting curve analysis.
+PG  - 1211-5
+AB  - BACKGROUND: A single hotspot mutation at nucleotide 1799 of the BRAF gene has been 
+      identified as the most common genetic event in papillary thyroid carcinoma (PTC), 
+      with a prevalence of 29-83%. AIMS: To use a PCR assay to molecularly characterise 
+      the BRAF activating point mutation in a series of PTC and benign thyroid cases and 
+      correlate the mutation results with histological findings. METHODS: Formalin-fixed 
+      paraffin-embedded (FFPE) sections were evaluated for the BRAF V600E mutation using 
+      LightCycler PCR with allele-specific fluorescent probe melting curve analysis 
+      (LCPCR). RESULTS: 42 (37 PTC; 5 benign) surgical tissue samples were analysed for 
+      the BRAF V600E activating point mutation. Using LCPCR and direct DNA sequencing, the 
+      BRAF mutation was identified in 23/37 (62.2%) PTC FFPE samples. DNA sequencing 
+      results demonstrated confirmation of the mutation. CONCLUSIONS: Detection of 
+      BRAF-activating mutations in PTC suggests new approaches to management and treatment 
+      of this disease that may prove worthwhile. Identification of the BRAF V600E 
+      activating mutation in routine FFPE pathology samples by a rapid laboratory method 
+      such as LCPCR could have significant value.
+FAU - Rowe, Leslie R
+AU  - Rowe LR
+AD  - Institute for Clinical and Experimental Pathology, Associated Regional and 
+      University Pathologists (ARUP) Laboratories, Salt Lake City, Utah, USA.
+FAU - Bentz, Brandon G
+AU  - Bentz BG
+FAU - Bentz, Joel S
+AU  - Bentz JS
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20070213
+TA  - J Clin Pathol
+JT  - Journal of clinical pathology
+JID - 0376601
+RN  - 0 (DNA, Neoplasm)
+RN  - 0 (Fluorescent Dyes)
+RN  - EC 2.7.11.1 (BRAF protein, human)
+RN  - EC 2.7.11.1 (Proto-Oncogene Proteins B-raf)
+SB  - AIM
+SB  - IM
+MH  - Alleles
+MH  - Base Sequence
+MH  - Carcinoma, Papillary/*genetics
+MH  - DNA Mutational Analysis/methods
+MH  - DNA, Neoplasm/genetics
+MH  - Fluorescent Dyes
+MH  - Humans
+MH  - Molecular Sequence Data
+MH  - *Point Mutation
+MH  - Polymerase Chain Reaction/methods
+MH  - Proto-Oncogene Proteins B-raf/*genetics
+MH  - Retrospective Studies
+MH  - Thyroid Neoplasms/*genetics
+PMC - PMC2095462
+COIS- Competing interests: None.
+EDAT- 2007/02/15 09:00
+MHDA- 2007/12/08 09:00
+CRDT- 2007/02/15 09:00
+PHST- 2007/02/15 09:00 [pubmed]
+PHST- 2007/12/08 09:00 [medline]
+PHST- 2007/02/15 09:00 [entrez]
+AID - jcp.2006.040105 [pii]
+AID - cp40105 [pii]
+AID - 10.1136/jcp.2006.040105 [doi]
+PST - ppublish
+SO  - J Clin Pathol. 2007 Nov;60(11):1211-5. doi: 10.1136/jcp.2006.040105. Epub 2007 Feb 
+      13.
+
+PMID- 33777940
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210330
+IS  - 2296-634X (Print)
+IS  - 2296-634X (Electronic)
+IS  - 2296-634X (Linking)
+VI  - 9
+DP  - 2021
+TI  - Activating Mutation of SHP2 Establishes a Tumorigenic Phonotype Through 
+      Cell-Autonomous and Non-Cell-Autonomous Mechanisms.
+PG  - 630712
+LID - 10.3389/fcell.2021.630712 [doi]
+LID - 630712
+AB  - Gain-of-function mutation of SHP2 is a central regulator in tumorigenesis and cancer 
+      progression through cell-autonomous mechanisms. Activating mutation of SHP2 in 
+      microenvironment was identified to promote cancerous transformation of hematopoietic 
+      stem cell in non-autonomous mechanisms. It is interesting to see whether therapies 
+      directed against SHP2 in tumor or microenvironmental cells augment antitumor 
+      efficacy. In this review, we summarized different types of gain-of-function SHP2 
+      mutations from a human disease. In general, gain-of-function mutations destroy the 
+      auto-inhibition state from wild-type SHP2, leading to consistency activation of 
+      SHP2. We illustrated how somatic or germline mutation of SHP2 plays an oncogenic 
+      role in tumorigenesis, stemness maintenance, invasion, etc. Moreover, the 
+      small-molecule SHP2 inhibitors are considered as a potential strategy for enhancing 
+      the efficacy of antitumor immunotherapy and chemotherapy. We also discussed the 
+      interconnection between phase separation and activating mutation of SHP2 in drug 
+      resistance of antitumor therapy.
+CI  - Copyright © 2021 Dong, Han, Meng, Xu, Zheng and Xia.
+FAU - Dong, Lei
+AU  - Dong L
+AD  - School of Life Sciences, Beijing Institute of Technology, Beijing, China.
+FAU - Han, Da
+AU  - Han D
+AD  - School of Life Sciences, Beijing Institute of Technology, Beijing, China.
+FAU - Meng, Xinyi
+AU  - Meng X
+AD  - School of Life Sciences, Beijing Institute of Technology, Beijing, China.
+FAU - Xu, Mengchuan
+AU  - Xu M
+AD  - School of Life Sciences, Beijing Institute of Technology, Beijing, China.
+FAU - Zheng, Chuwen
+AU  - Zheng C
+AD  - School of Biological Sciences, Georgia Institute of Technology, Atlanta, GA, United 
+      States.
+FAU - Xia, Qin
+AU  - Xia Q
+AD  - School of Life Sciences, Beijing Institute of Technology, Beijing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210311
+TA  - Front Cell Dev Biol
+JT  - Frontiers in cell and developmental biology
+JID - 101630250
+PMC - PMC7991796
+OTO - NOTNLM
+OT  - SHP2 inhibition
+OT  - SHP2 mutation
+OT  - cell-autonomous/non-cell autonomous mechanisms
+OT  - tumor
+OT  - tumor microenvironment
+COIS- The authors declare that the research was conducted in the absence of any commercial 
+      or financial relationships that could be construed as a potential conflict of 
+      interest.
+EDAT- 2021/03/30 06:00
+MHDA- 2021/03/30 06:01
+CRDT- 2021/03/29 06:36
+PHST- 2020/11/18 00:00 [received]
+PHST- 2021/01/04 00:00 [accepted]
+PHST- 2021/03/29 06:36 [entrez]
+PHST- 2021/03/30 06:00 [pubmed]
+PHST- 2021/03/30 06:01 [medline]
+AID - 10.3389/fcell.2021.630712 [doi]
+PST - epublish
+SO  - Front Cell Dev Biol. 2021 Mar 11;9:630712. doi: 10.3389/fcell.2021.630712. 
+      eCollection 2021.
+
+PMID- 22584707
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130116
+LR  - 20211203
+IS  - 1980-5322 (Electronic)
+IS  - 1807-5932 (Print)
+IS  - 1807-5932 (Linking)
+VI  - 67 Suppl 1
+IP  - Suppl 1
+DP  - 2012
+TI  - RET haplotype, not linked to the C620R activating mutation, associated with 
+      Hirschsprung disease in a novel MEN2 family.
+PG  - 57-61
+LID - S1807-59322012001300011 [pii]
+AB  - Hirschsprung disease is a congenital form of aganglionic megacolon that results from 
+      cristopathy. Hirschsprung disease usually occurs as a sporadic disease, although it 
+      may be associated with several inherited conditions, such as multiple endocrine 
+      neoplasia type 2. The rearranged during transfection (RET) proto-oncogene is the 
+      major susceptibility gene for Hirschsprung disease, and germline mutations in RET 
+      have been reported in up to 50% of the inherited forms of Hirschsprung disease and 
+      in 15-20% of sporadic cases of Hirschsprung disease. The prevalence of Hirschsprung 
+      disease in multiple endocrine neoplasia type 2 cases was recently determined to be 
+      7.5% and the cooccurrence of Hirschsprung disease and multiple endocrine neoplasia 
+      type 2 has been reported in at least 22 families so far. It was initially thought 
+      that Hirschsprung disease could be due to disturbances in apoptosis or due to a 
+      tendency of the mutated RET receptor to be retained in the Golgi apparatus. 
+      Presently, there is strong evidence favoring the hypothesis that specific 
+      inactivating haplotypes play a key role in the fetal development of congenital 
+      megacolon/Hirschsprung disease. In the present study, we report the genetic findings 
+      in a novel family with multiple endocrine neoplasia type 2: a specific RET haplotype 
+      was documented in patients with Hirschsprung disease associated with medullary 
+      thyroid carcinoma, but it was absent in patients with only medullary thyroid 
+      carcinoma. Despite the limited number of cases, the present data favor the 
+      hypothesis that specific haplotypes not linked to RET germline mutations are the 
+      genetic causes of Hirschsprung disease.
+FAU - Quedas, Elisangela P S
+AU  - Quedas EP
+AD  - Division of Endocrinology, Endocrine Genetics Unit, Faculdade de Medicina, 
+      Universidade de São Paulo, São Paulo, SP, Brazil.
+FAU - Longuini, Viviane C
+AU  - Longuini VC
+FAU - Sekiya, Tomoko
+AU  - Sekiya T
+FAU - Coutinho, Flavia L
+AU  - Coutinho FL
+FAU - Toledo, Sergio P A
+AU  - Toledo SP
+FAU - Tannuri, Uenis
+AU  - Tannuri U
+FAU - Toledo, Rodrigo A
+AU  - Toledo RA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+TA  - Clinics (Sao Paulo)
+JT  - Clinics (Sao Paulo, Brazil)
+JID - 101244734
+RN  - EC 2.7.10.1 (Proto-Oncogene Proteins c-ret)
+RN  - Thyroid cancer, medullary
+SB  - IM
+MH  - Carcinoma, Medullary/*genetics
+MH  - Carcinoma, Neuroendocrine
+MH  - Genotype
+MH  - Germ-Line Mutation/*genetics
+MH  - Haplotypes/*genetics
+MH  - Hirschsprung Disease/*genetics
+MH  - Humans
+MH  - Multiple Endocrine Neoplasia Type 2a/*genetics
+MH  - Mutation
+MH  - Proto-Oncogene Proteins c-ret/*genetics
+MH  - Thyroid Neoplasms/*genetics
+PMC - PMC3328835
+COIS- No potential conflict of interest was reported.
+EDAT- 2012/05/25 06:00
+MHDA- 2013/01/17 06:00
+CRDT- 2012/05/16 06:00
+PHST- 2012/05/16 06:00 [entrez]
+PHST- 2012/05/25 06:00 [pubmed]
+PHST- 2013/01/17 06:00 [medline]
+AID - S1807-59322012001300011 [pii]
+AID - cln_67p57 [pii]
+AID - 10.6061/clinics/2012(sup01)11 [doi]
+PST - ppublish
+SO  - Clinics (Sao Paulo). 2012;67 Suppl 1(Suppl 1):57-61. doi: 
+      10.6061/clinics/2012(sup01)11.
+
+PMID- 32930150
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201119
+LR  - 20201119
+IS  - 1998-4138 (Electronic)
+IS  - 1998-4138 (Linking)
+VI  - 16
+IP  - 4
+DP  - 2020 Jul-Sep
+TI  - Epidermal growth factor receptor-activating mutation(E746_T751>VP) in pancreatic 
+      ductal adenocarcinoma responds to erlotinib, followed by epidermal growth factor 
+      receptor resistance-mediating mutation (A647T): A case report and literature review.
+PG  - 950-954
+LID - 10.4103/jcrt.JCRT_729_18 [doi]
+AB  - Despite recent advances in treatment with multidrug chemotherapy regimens, outcomes 
+      of patients with advanced pancreatic ductal adenocarcinoma (PDAC) remain very poor. 
+      Treatment with targeted therapies has shown marginal benefits due to intrinsic or 
+      acquired resistance. Actionable mutations, while detected infrequently in patients 
+      with PDAC, are becoming increasingly used in personalized medicine. Here, we 
+      describe an epidermal growth factor receptor (EGFR)-activating mutation 
+      (E746_T751>VP) to erlotinib, a first-generation tyrosine kinase inhibitor (TKI), in 
+      a patient with metastatic PDAC. After an initial partial response to erlotinib for 
+      12 months, the patient's disease progressed with emergence of the EGFR A647T 
+      mutation. Certainly, the patient also progressed after switching therapy to a 
+      third-generation EGFR TKI (osimertinib). This case illustrates the posttreatment 
+      evolution of EGFR A647T-mediated resistance to the first- and third-generation TKIs. 
+      To our knowledge, this is the first case to report the aforementioned activating and 
+      resistance-mediated mutations. In summary, genomic analysis performed in this 
+      patient with PDAC on the tumor biopsy and peripheral blood provided tools to 
+      understand mechanisms of response and resistance to targeted therapy with EFGR TKIs.
+FAU - Patel, Girijesh Kumar
+AU  - Patel GK
+AD  - Department of Oncologic Sciences, Mitchell Cancer Institute, The University of South 
+      Alabama, Mobile, Alabama, USA.
+FAU - Perry, Josiah B
+AU  - Perry JB
+AD  - College of Allied Health Professions, The University of South Alabama, Mobile, 
+      Alabama, USA.
+FAU - Abdul-Rahim, Osama
+AU  - Abdul-Rahim O
+AD  - Division of Interventional Radiology, The University of South Alabama, Mobile, 
+      Alabama, USA.
+FAU - Frankel, Arthur E
+AU  - Frankel AE
+AD  - Medical Oncology, Mitchell Cancer Institute, The University of South Alabama, 
+      Mobile, Alabama, USA.
+FAU - Cameron, Daniel
+AU  - Cameron D
+AD  - Medical Oncology, Mitchell Cancer Institute, The University of South Alabama, 
+      Mobile, Alabama, USA.
+FAU - Taylor, William
+AU  - Taylor W
+AD  - Medical Oncology, Mitchell Cancer Institute, The University of South Alabama, 
+      Mobile, Alabama, USA.
+FAU - Rocconi, Rodney P
+AU  - Rocconi RP
+AD  - Gynecology Oncology, Mitchell Cancer Institute, The University of South Alabama, 
+      Mobile, Alabama, USA.
+FAU - Abushahin, Laith
+AU  - Abushahin L
+AD  - Medical Oncology, The James Comprehensive Cancer Center, The Ohio State University, 
+      Columbus, OH, USA.
+FAU - Nelson, Cindy
+AU  - Nelson C
+AD  - Division of Interventional Radiology, The University of South Alabama, Mobile, 
+      Alabama, USA.
+FAU - Singh, Ajay P
+AU  - Singh AP
+AD  - Department of Oncologic Sciences, Mitchell Cancer Institute, The University of South 
+      Alabama, Mobile, Alabama, USA.
+FAU - Khushman, Moh'd
+AU  - Khushman M
+AD  - Division of Interventional Radiology, The University of South Alabama, Mobile, 
+      Alabama, USA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+PL  - India
+TA  - J Cancer Res Ther
+JT  - Journal of cancer research and therapeutics
+JID - 101249598
+RN  - 0 (Protein Kinase Inhibitors)
+RN  - DA87705X9K (Erlotinib Hydrochloride)
+RN  - EC 2.7.10.1 (EGFR protein, human)
+RN  - EC 2.7.10.1 (ErbB Receptors)
+SB  - IM
+MH  - Aged
+MH  - Carcinoma, Pancreatic Ductal/*drug therapy/genetics/pathology
+MH  - ErbB Receptors/genetics
+MH  - Erlotinib Hydrochloride/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - *Mutation
+MH  - Pancreatic Neoplasms/*drug therapy/genetics/pathology
+MH  - Prognosis
+MH  - Protein Kinase Inhibitors/therapeutic use
+OTO - NOTNLM
+OT  - A647T
+OT  - E746_T751>VP mutation
+OT  - epidermal growth factor receptor
+OT  - erlotinib
+OT  - osimertinib
+OT  - pancreatic ductal adenocarcinoma
+OT  - resistance
+COIS- None
+EDAT- 2020/09/16 06:00
+MHDA- 2020/11/20 06:00
+CRDT- 2020/09/15 08:52
+PHST- 2020/09/15 08:52 [entrez]
+PHST- 2020/09/16 06:00 [pubmed]
+PHST- 2020/11/20 06:00 [medline]
+AID - JCanResTher_2020_16_4_950_277359 [pii]
+AID - 10.4103/jcrt.JCRT_729_18 [doi]
+PST - ppublish
+SO  - J Cancer Res Ther. 2020 Jul-Sep;16(4):950-954. doi: 10.4103/jcrt.JCRT_729_18.
+
+PMID- 29910643
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191016
+LR  - 20191016
+IS  - 1718-7729 (Electronic)
+IS  - 1198-0052 (Print)
+IS  - 1198-0052 (Linking)
+VI  - 25
+IP  - Suppl 1
+DP  - 2018 Jun
+TI  - Irreversible tyrosine kinase inhibition of epidermal growth factor receptor with 
+      afatinib in EGFR activating mutation-positive advanced non-small-cell lung cancer.
+PG  - S9-S17
+LID - 10.3747/co.25.3732 [doi]
+AB  - Despite recent advances in the systemic therapy of non-small-cell lung cancer 
+      (nsclc), the prognosis for stage iv disease remains poor. The discovery of 
+      targetable mutations has led to new treatment options. The most common mutations, 
+      the EGFR activating mutations, are present in about 50% of Asian patients and up to 
+      15% of white patients. First-generation reversible epidermal growth factor receptor 
+      (egfr) tyrosine kinase inhibitors (tkis) have led to improved survival in patients 
+      positive for EGFR activating mutations, but resistance eventually leads to disease 
+      progression. The irreversible egfr tki afatinib was developed to counter such 
+      resistance. The clinical efficacy of afatinib has been shown in first-line studies 
+      comparing it with both cytotoxic chemotherapy and first-generation egfr tkis. 
+      Afatinib has also shown continued benefit beyond progression while a patient is 
+      taking an egfr inhibitor. Furthermore, its toxicity profile is both predictable and 
+      manageable. The results of the principal clinical trials assessing afatinib are 
+      reviewed here.
+FAU - Abdallah, S Morin-Ben
+AU  - Abdallah SM
+AD  - Department of Oncology, McGill University Health Centre, Montreal, QC.
+FAU - Hirsh, V
+AU  - Hirsh V
+AD  - Department of Oncology, McGill University Health Centre, Montreal, QC.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180613
+TA  - Curr Oncol
+JT  - Current oncology (Toronto, Ont.)
+JID - 9502503
+RN  - 0 (Protein Kinase Inhibitors)
+RN  - 41UD74L59M (Afatinib)
+RN  - EC 2.7.10.1 (EGFR protein, human)
+RN  - EC 2.7.10.1 (ErbB Receptors)
+SB  - IM
+MH  - Afatinib/*therapeutic use
+MH  - Carcinoma, Non-Small-Cell Lung/*drug therapy/genetics/pathology
+MH  - Disease Progression
+MH  - ErbB Receptors/antagonists & inhibitors/genetics
+MH  - Gain of Function Mutation/drug effects
+MH  - Humans
+MH  - Lung Neoplasms/*drug therapy/genetics/pathology
+MH  - Protein Kinase Inhibitors/*therapeutic use
+MH  - Treatment Outcome
+PMC - PMC6001770
+OTO - NOTNLM
+OT  - *Non-small-cell lung cancer
+OT  - *afatinib
+OT  - *egfr
+OT  - *epidermal growth factor receptor
+OT  - *nsclc
+OT  - *tkis
+OT  - *tyrosine kinase inhibitors
+EDAT- 2018/06/19 06:00
+MHDA- 2019/10/17 06:00
+CRDT- 2018/06/19 06:00
+PHST- 2018/06/19 06:00 [entrez]
+PHST- 2018/06/19 06:00 [pubmed]
+PHST- 2019/10/17 06:00 [medline]
+AID - conc-25-s9 [pii]
+AID - 10.3747/co.25.3732 [doi]
+PST - ppublish
+SO  - Curr Oncol. 2018 Jun;25(Suppl 1):S9-S17. doi: 10.3747/co.25.3732. Epub 2018 Jun 13.
+
+PMID- 19996579
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100412
+LR  - 20151119
+IS  - 1421-9832 (Electronic)
+IS  - 1018-8665 (Linking)
+VI  - 220
+IP  - 1
+DP  - 2010
+TI  - Anal mucosal melanoma with KIT-activating mutation and response to imatinib 
+      therapy--case report and review of the literature.
+PG  - 77-81
+LID - 10.1159/000265558 [doi]
+AB  - Previously an increased frequency of KIT aberrations in mucosal melanomas was 
+      reported, whereas c-KIT in most types of cutaneous melanomas does not appear to be 
+      of pathogenetic importance. Imatinib has become the standard of care in other 
+      cancers with KIT mutations such as gastrointestinal stromal tumors. Recently 12 
+      cases of metastatic melanoma and KIT-activating mutations have been published to be 
+      successfully treated with c-KIT blockers such as imatinib, sunitinib, dasatinib or 
+      sorafenib. We report here on one of our patients with KIT-activating mutation in 
+      metastatic anal mucosal melanoma, who showed a response to imatinib therapy and 
+      summarize the available literature regarding this new therapeutic option.
+CI  - Copyright 2009 S. Karger AG, Basel.
+FAU - Satzger, Imke
+AU  - Satzger I
+AD  - Skin Cancer Center Hannover, Department of Dermatology and Allergy, Hannover Medical 
+      School, Hannover, Germany. satzger.imke @ mh-hannover.de
+FAU - Küttler, Uta
+AU  - Küttler U
+FAU - Völker, Bernward
+AU  - Völker B
+FAU - Schenck, Florian
+AU  - Schenck F
+FAU - Kapp, Alexander
+AU  - Kapp A
+FAU - Gutzmer, Ralf
+AU  - Gutzmer R
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+DEP - 20091209
+PL  - Switzerland
+TA  - Dermatology
+JT  - Dermatology (Basel, Switzerland)
+JID - 9203244
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Benzamides)
+RN  - 0 (Piperazines)
+RN  - 0 (Protein Kinase Inhibitors)
+RN  - 0 (Pyrimidines)
+RN  - 8A1O1M485B (Imatinib Mesylate)
+RN  - EC 2.7.10.1 (Proto-Oncogene Proteins c-kit)
+SB  - IM
+MH  - Aged
+MH  - Antineoplastic Agents/*therapeutic use
+MH  - Anus Neoplasms/*drug therapy/secondary
+MH  - Benzamides
+MH  - Female
+MH  - Humans
+MH  - Imatinib Mesylate
+MH  - Melanoma/*drug therapy/genetics/secondary
+MH  - Mucous Membrane/drug effects/pathology
+MH  - Mutation
+MH  - Piperazines/*therapeutic use
+MH  - Protein Kinase Inhibitors/*therapeutic use
+MH  - Proto-Oncogene Proteins c-kit/antagonists & inhibitors/genetics
+MH  - Pyrimidines/*therapeutic use
+MH  - Skin Neoplasms/genetics/*pathology
+RF  - 18
+EDAT- 2009/12/10 06:00
+MHDA- 2010/04/13 06:00
+CRDT- 2009/12/10 06:00
+PHST- 2009/04/28 00:00 [received]
+PHST- 2009/10/21 00:00 [accepted]
+PHST- 2009/12/10 06:00 [entrez]
+PHST- 2009/12/10 06:00 [pubmed]
+PHST- 2010/04/13 06:00 [medline]
+AID - 000265558 [pii]
+AID - 10.1159/000265558 [doi]
+PST - ppublish
+SO  - Dermatology. 2010;220(1):77-81. doi: 10.1159/000265558. Epub 2009 Dec 9.
